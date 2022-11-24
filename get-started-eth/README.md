@@ -1,6 +1,6 @@
 # 📱 Get Started (ETH)
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/getstarteth.png" alt=""><figcaption></figcaption></figure>
 
 Using anything new for the first time can be a little challenging.&#x20;
 
