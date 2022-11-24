@@ -1,6 +1,6 @@
 # 📱 Get Started (Aptos)
 
-<figure><img src="../.gitbook/assets/IMAGE 2022-11-20 165126.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 Using anything new for the first time can be a little challenging.&#x20;
 

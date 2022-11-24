@@ -1,6 +1,6 @@
 # 🌊 About Bubbleswap
 
-<figure><img src=".gitbook/assets/cdf610f68cc4ed0b2cfd689ea9ed70f.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/banner.png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -1,6 +1,6 @@
 # AMA With AptosCN
 
-<figure><img src="../.gitbook/assets/IMAGE 2022-11-20 130158.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 _AptosCN: Welcome to the Bubbleswap team to our community!_
 

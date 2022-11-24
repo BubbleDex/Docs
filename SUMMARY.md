@@ -30,7 +30,7 @@
 
 ***
 
-* [👩🌾 Liquidity Farming](liquidity-farming.md)
+* [👩🌾 👩🌾 Liquidity Farming](liquidity-farming.md)
 * [💰 Trading Rewards](trading-rewards.md)
 * [⚡ Stake](stake.md)
 
@@ -43,7 +43,7 @@
 * [🗣 AMA](ama/README.md)
   * [AMA With AptosCN](ama/ama-with-aptoscn.md)
 
-## 👨💻 DEVELOPERs
+## 👨💻 👨💻 DEVELOPERs
 
 * [📒 Contrats Address](developers/contrats-address/README.md)
   * [Ethereum](developers/contrats-address/ethereum.md)

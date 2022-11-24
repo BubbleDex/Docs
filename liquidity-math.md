@@ -4,7 +4,7 @@
 
 The solution in v3 is to allow users to add liquidity only within a certain price range.&#x20;
 
-<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 This image shows $$x \cdot y = k$$ a of the function graph. To satisfy the need to give the user the option of only $$\begin{bmatrix}   a,b \end{bmatrix}$$Liquidity is provided within the price range. For the chart $$\begin{bmatrix}   a,b \end{bmatrix}$$any point in the interval with.
 
@@ -26,7 +26,7 @@ With this design, the user's money will only be $$\begin{bmatrix}   a,b \end{bma
 
 
 
-<figure><img src=".gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 The chart above shows the user choice in price $$\begin{bmatrix}   a,b \end{bmatrix}$$When providing liquidity between the two, the participation of virtual tokens will curve $$f\left ( real \right )$$(orange) moves up to the right to $$f\left ( virtual \right )$$(green), achieving consistency in price calculations (i.e. meeting $$x \cdot y = k$$）。
 
@@ -34,7 +34,7 @@ The chart above shows the user choice in price $$\begin{bmatrix}   a,b \end{bmat
 
 In the v3 version, because there will be several liquid pools of different depths in a single pool (each of which can be set up with a separate trading price range), the process of a single trade may span several different depths. 
 
-<figure><img src=".gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 As shown on the far right of the chart above, when prices change, so does the total liquidity in the liquidity pool. Therefore the relationship between the funds in the liquidity pool in the v3 version cannot be represented by a smooth bonding curve as in the v2 version. So how are the trading results calculated?
 
@@ -110,6 +110,6 @@ In this way, it is only necessary to pass the integer index $$i$$  The correspon
 
 Instead of recording all the information for each tick, you only need to record all the mobility metadata contained as the upper/lower tick. Look at the following example.
 
-<figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 Two users each in $$[a, c]$$and $$[b, d]$$and Two zones provide liquidity $$L_1$$and $$L_2$$, For v3 it will record the corresponding liquidity increases and decreases on the a, b, c and d ticks. For example, as the price moves from left to right in the graph, the liquidity of the token pool is increased or decreased  (i.e. liquidity is increased when a tick enters from the left and decreased when the right tick moves out of liquidity).

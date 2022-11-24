@@ -12,11 +12,11 @@ Trading on the BubbleSwap exchange
 
 2\. Unlock your Ethereum-compatible wallet by clicking Unlock Wallet (you can also Connect in the top right-hand corner). If you haven't yet connected your wallet to BubbleSwap, you can view the guide to [here](../../get-started-eth/connect-your-wallet-to-bubbleswap.md).
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2022-11-20 at 1.05.32 AM (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 3.Choose the token you want to trade fromj the dropdown menu in the "Form" section, the default setting is ETH.
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2022-11-20 at 7.22.12 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 Whichever token you choose, you will need to make sure you have some to trade with, your balanse is shown above the token dropdown menu.
 

@@ -1,6 +1,6 @@
 # 🔐 Audit Report
 
-<figure><img src=".gitbook/assets/IMAGE 2022-11-20 021149.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 ### Is Bubbleswap safe?
 

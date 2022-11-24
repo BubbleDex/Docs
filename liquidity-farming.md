@@ -2,7 +2,7 @@
 description: Yield Farming on BubbleSwap is easy!
 ---
 
-# 👩🌾 Liquidity Farming
+# 👩🌾 👩🌾 Liquidity Farming
 
 Yield Farming in Farms is a great way to earn BUBBLE rewards on BubbleSwap.
 
@@ -16,8 +16,8 @@ Check out this [great article about Impermanent Loss](https://academy.binance.co
 
 1. Click Mining on the navigation bar and swith to Yield Farming page.
 
-<figure><img src=".gitbook/assets/Screen Shot 2022-11-20 at 10.48.39 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 2\. Click Operation on the pair you want to stake. (You will need to [add liquidity](features/trade/how-to-add-remove-liquidity.md) first)
 
-<figure><img src=".gitbook/assets/IMAGE 2022-11-20 230728.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
