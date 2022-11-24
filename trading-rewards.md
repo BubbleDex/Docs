@@ -12,4 +12,4 @@ Assume that your individual trading volume and the BUBBLE output in the pool are
 
 Click **Swap** to conduct the transaction. If there is trading reward for the pair, Click **Claim** to collect the BUBBLE tokens.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Rewards.jpg" alt=""><figcaption></figcaption></figure>
