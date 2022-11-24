@@ -4,4 +4,4 @@ The earlier version of AMM forces LPs to allocate capital on the price range of 
 
 Bubbleswap inherits the existing design of concentrated liquidity. Instead of forcing LPs to provide liquidity on the (0, ∞) price range, allows LPs to concentrate their capital into the price ranges they selected. Using a narrow price range, LPs can amplify their liquidity with the same amount of capital.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Left: full range liquidity.       Right: concentrated liquidity</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/liquidity (1).png" alt=""><figcaption><p>Left: full range liquidity.       Right: concentrated liquidity</p></figcaption></figure>

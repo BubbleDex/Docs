@@ -18,7 +18,7 @@ To start using BubbleSwap, you first need to set up a wallet that supports the A
 
 {% tabs %}
 {% tab title="Petra" %}
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Petra.jpg" alt=""><figcaption></figcaption></figure>
 
 Petra wallet is an extension that lets you explore Aptos in your browser.
 
@@ -41,7 +41,7 @@ Petra wallet is an extension that lets you explore Aptos in your browser.
 {% endtab %}
 
 {% tab title="Martian" %}
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Martian.jpg" alt=""><figcaption></figcaption></figure>
 
 Martian is an Aptos Chain wallet that allows you to store, send, receive tokens and manage & mint NFTs. Its mobile version is coming soon.
 
@@ -57,7 +57,7 @@ Martian is an Aptos Chain wallet that allows you to store, send, receive tokens 
 {% endtab %}
 
 {% tab title="Pontem" %}
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Pontem.jpg" alt=""><figcaption></figcaption></figure>
 
 Pontem Wallet is an Aptos Chain wallet that allows you to store, send, receive tokens, and connect to dApps on the Aptos ecosystem.
 
