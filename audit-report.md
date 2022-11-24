@@ -1,6 +1,6 @@
 # 🔐 Audit Report
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/certik.png" alt=""><figcaption></figcaption></figure>
 
 ### Is Bubbleswap safe?
 
