@@ -30,7 +30,7 @@
 
 ***
 
-* [👩🌾 👩🌾 Liquidity Farming](liquidity-farming.md)
+* [👩🌾 Liquidity Farming](liquidity-farming.md)
 * [💰 Trading Rewards](trading-rewards.md)
 * [⚡ Stake](stake.md)
 
