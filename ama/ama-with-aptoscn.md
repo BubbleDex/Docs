@@ -1,6 +1,6 @@
 # AMA With AptosCN
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/aptoscnama.png" alt=""><figcaption></figcaption></figure>
 
 _AptosCN: Welcome to the Bubbleswap team to our community!_
 
