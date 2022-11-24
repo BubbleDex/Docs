@@ -1,5 +1,7 @@
 # $BUBBLE
 
+<figure><img src="../.gitbook/assets/token.png" alt=""><figcaption></figcaption></figure>
+
 * Token Symbol：BUBBLE
 * Token Name：Bubbleswap
 * Total Supply: 1,000,000,000
