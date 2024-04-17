@@ -42,12 +42,7 @@
 ## 👨‍💻 DEVELOPERs
 
 * [📒 Contrats Address](developers/contrats-address/README.md)
-  * [Ethereum](developers/contrats-address/ethereum.md)
-  * [BNB Chain](developers/contrats-address/bnb-chain.md)
-  * [Avalanche](developers/contrats-address/avalanche.md)
-  * [Polygon](developers/contrats-address/polygon.md)
-  * [Aptos](developers/contrats-address/aptos.md)
-  * [Optimism](developers/contrats-address/optimism.md)
+  * [X layer](developers/contrats-address/ethereum.md)
   * [Arbitrum](developers/contrats-address/arbitrum.md)
 * [🐘 How to submit a token logo](developers/how-to-submit-a-token-logo.md)
 * [💠 Brand & Logos](developers/brand-and-logos.md)

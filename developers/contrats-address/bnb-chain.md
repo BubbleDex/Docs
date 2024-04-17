@@ -1,3 +1,0 @@
-# BNB Chain
-
-### Coming soon

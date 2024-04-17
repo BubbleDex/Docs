@@ -1,3 +1,0 @@
-# Polygon
-
-### Coming soon

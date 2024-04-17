@@ -1,3 +1,0 @@
-# Optimism
-
-### Coming soon

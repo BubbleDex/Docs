@@ -1,3 +1,0 @@
-# Aptos
-
-### Coming soon

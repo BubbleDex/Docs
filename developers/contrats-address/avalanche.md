@@ -1,3 +1,0 @@
-# Avalanche
-
-### Coming soon
