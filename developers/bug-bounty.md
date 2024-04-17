@@ -12,12 +12,7 @@ The vulnerability feedback reward campaign includes all contracts in the Bubbles
 
 We will assess the severity of vulnerabilities based on CVSS, with rewards corresponding to different severity levels.&#x20;
 
-| Severity Levels    | Rewards   |
-| ------------------ | --------- |
-| Very High (9.0-10) | $100,000  |
-| High (7.0-8.9)     | $10,000   |
-| Medium (4.0-6.9)   | $5,000    |
-| Low (0.1-3.9)      | $1,000    |
+<table><thead><tr><th width="481">Severity Levels</th><th width="230">Rewards</th></tr></thead><tbody><tr><td>Very High (9.0-10)</td><td>$100,000 </td></tr><tr><td>High (7.0-8.9)</td><td>$10,000</td></tr><tr><td>Medium (4.0-6.9)</td><td>$5,000</td></tr><tr><td>Low (0.1-3.9)</td><td>$1,000</td></tr></tbody></table>
 
 In addition to differentiating rewards based on severity, we also offer different rewards based on the impact of the vulnerability and the difficulty of discovery.&#x20;
 

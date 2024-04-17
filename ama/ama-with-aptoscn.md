@@ -74,7 +74,7 @@ _7）关于 $BUBBLE 代币经济学，你能详细介绍一下吗？ Can you ela
 
 **Marketing 2%**
 
-_8）你们的项目目前处于什么样的一个阶段，我发现你们已经推出了网站，现在可以使用了吗？_ [_https://bubbleswap.co/_](https://bubbleswap.co/) _What stage is your project at now, I see you have launched your website, is it ready to use now?_ [_https://bubbleswap.co/_](https://bubbleswap.co/)__
+_8）你们的项目目前处于什么样的一个阶段，我发现你们已经推出了网站，现在可以使用了吗？_ [_https://bubbleswap.co/_](https://bubbleswap.co/) _What stage is your project at now, I see you have launched your website, is it ready to use now?_ [_https://bubbleswap.co/_](https://bubbleswap.co/)
 
 **Not yet, sir**
 

@@ -4,7 +4,11 @@
 
 The solution in v3 is to allow users to add liquidity only within a certain price range.&#x20;
 
+<div align="center">
+
 <figure><img src=".gitbook/assets/Figure1.jpg" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 This image shows $$x \cdot y = k$$ a of the function graph. To satisfy the need to give the user the option of only $$\begin{bmatrix}   a,b \end{bmatrix}$$Liquidity is provided within the price range. For the chart $$\begin{bmatrix}   a,b \end{bmatrix}$$any point in the interval with.
 

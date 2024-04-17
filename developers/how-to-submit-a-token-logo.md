@@ -71,7 +71,7 @@ Burning process: When submitting a token icon, burn 300 BUBBLE to verify the leg
 Note: Please confirm again before transfer, because the receiving address is a black hole address and cannot be returned!
 {% endhint %}
 
-****
+
 
 **Steps to submit a token icon:**
 

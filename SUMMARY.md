@@ -9,10 +9,6 @@
   * [Create a wallet](get-started-eth/create-a-wallet.md)
   * [Get ERC20 tokens](get-started-eth/get-erc20-tokens.md)
   * [Connect your wallet to Bubbleswap](get-started-eth/connect-your-wallet-to-bubbleswap.md)
-* [📱 Get Started (Aptos)](get-started-aptos/README.md)
-  * [Create a wallet](get-started-aptos/create-a-wallet.md)
-  * [Get APT tokens](get-started-aptos/get-apt-tokens.md)
-  * [Connect your wallet to Bubbleswap](get-started-aptos/connect-your-wallet-to-bubbleswap.md)
 * [📩 Contact Us](contact-us/README.md)
   * [Customer Support](contact-us/customer-support.md)
   * [Business Partnerships](contact-us/business-partnerships.md)
@@ -30,20 +26,20 @@
 
 ***
 
-* [👩🌾 Liquidity Farming](liquidity-farming.md)
+* [👩‍🌾 Liquidity Farming](liquidity-farming.md)
 * [💰 Trading Rewards](trading-rewards.md)
 * [⚡ Stake](stake.md)
 
 ## 🪙 Tokenomics
 
-* [$BUBBLE](tokenomics/usdbubble.md)
+* [$BUB](tokenomics/usdbubble.md)
 
 ***
 
-* [🗣 AMA](ama/README.md)
+* [🗣️ AMA](ama/README.md)
   * [AMA With AptosCN](ama/ama-with-aptoscn.md)
 
-## 👨💻 DEVELOPERs
+## 👨‍💻 DEVELOPERs
 
 * [📒 Contrats Address](developers/contrats-address/README.md)
   * [Ethereum](developers/contrats-address/ethereum.md)
