@@ -42,7 +42,7 @@
 ## 👨‍💻 DEVELOPERs
 
 * [📒 Contrats Address](developers/contrats-address/README.md)
-  * [Arbitrum](developers/contrats-address/arbitrum.md)
+  * [Bitlayer](developers/contrats-address/arbitrum.md)
 * [🐘 How to submit a token logo](developers/how-to-submit-a-token-logo.md)
 * [💠 Brand & Logos](developers/brand-and-logos.md)
 * [🐞 Bug Bounty](developers/bug-bounty.md)
