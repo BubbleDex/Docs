@@ -7,7 +7,7 @@
 {% hint style="success" %}
 **Bubbleswap is a concentrated liquidity market maker (CLMM) that allows LPs select price range and fee tiers on Aptos & Ethereum. It's fast, cheap, and allows anyone to participate.**
 
-**Will soon become an influential DEX on Aptos & Ethereum**
+**Will soon become an influential DEX on Bitlayer**
 {% endhint %}
 
 ### Decentralized Token Trading

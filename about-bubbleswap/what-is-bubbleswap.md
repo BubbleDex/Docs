@@ -1,6 +1,6 @@
 # What is Bubbleswap
 
-**Bubbleswap** is a concentrated liquidity swap on Ethereum & Aptos that supports these core features:
+**Bubbleswap** is a concentrated liquidity swap on Bitlayer that supports these core features:
 
 * Concentrated Liquidity
 * Mutiple Fee Tiers

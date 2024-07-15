@@ -42,7 +42,6 @@
 ## 👨‍💻 DEVELOPERs
 
 * [📒 Contrats Address](developers/contrats-address/README.md)
-  * [X layer](developers/contrats-address/ethereum.md)
   * [Arbitrum](developers/contrats-address/arbitrum.md)
 * [🐘 How to submit a token logo](developers/how-to-submit-a-token-logo.md)
 * [💠 Brand & Logos](developers/brand-and-logos.md)

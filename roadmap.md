@@ -16,7 +16,7 @@ Well, it's more of a to-do list than a roadmap, because there is no specific ord
 
 ### On-going
 
-* [ ] Launch on Ethereum
+* [ ] Launch on Bitlayer
 * [ ] Perpetual Development
 * [ ] Launch on Aptos
 * [ ] List on CoinmarketCap
