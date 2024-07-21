@@ -5,7 +5,7 @@
   * [Concentrated liquidity](about-bubbleswap/concentrated-liquidity.md)
   * [Mutiple Tiers Fee](about-bubbleswap/mutiple-tiers-fee.md)
   * [Yield Farming](about-bubbleswap/yield-farming.md)
-* [📱 Get Started (ETH)](get-started-eth/README.md)
+* [📱 Get Started](get-started-eth/README.md)
   * [Create a wallet](get-started-eth/create-a-wallet.md)
   * [Get ERC20 tokens](get-started-eth/get-erc20-tokens.md)
   * [Connect your wallet to Bubbleswap](get-started-eth/connect-your-wallet-to-bubbleswap.md)
