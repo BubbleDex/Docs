@@ -34,6 +34,7 @@
 ## 🪙 Tokenomics
 
 * [$BUB](tokenomics/usdbubble.md)
+* [Airdrop Campaion](tokenomics/airdrop-campaion.md)
 
 ***
 
