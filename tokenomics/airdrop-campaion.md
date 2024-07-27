@@ -2,7 +2,7 @@
 
 We'll be airdropping to early backers!
 
-Start Time: July 22, 2024
+Start Time: July 227 2024
 
 Snapshot Time:&#x20;
 
@@ -11,6 +11,7 @@ Specify token pair:
 * BTC/USDT
 * USDC/USDT
 * CBD/USDT
+* More trading pairs will gradually open
 
 1. **Swap on** [**Bubbleswap**](https://app.bubbleswap.co/swap)
 
