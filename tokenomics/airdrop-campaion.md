@@ -2,7 +2,7 @@
 
 We'll be airdropping to early backers!
 
-Start Time: July 227 2024
+Start Time: July 27 2024
 
 Snapshot Time:&#x20;
 
