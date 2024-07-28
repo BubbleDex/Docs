@@ -4,7 +4,7 @@ Trading on BubbleSwap is very easy compared to most exchanges. You aren't going 
 
 ### Getting set up to trade
 
-Before you can trade, you will need a Ethereum-compatible wallet. You can learn how to get one [here](../../get-started-eth/create-a-wallet.md). You will also need to have some ETH tokens to trade with. You can learn how to get some [here](../../get-started-eth/get-erc20-tokens.md).
+Before you can trade, you will need a Ethereum-compatible wallet. You can learn how to get one [here](../../get-started-eth/create-a-wallet.md). You will also need to have some BTC tokens to trade with. You can learn how to get some [here](../../get-started-eth/get-erc20-tokens.md).
 
 Trading on the BubbleSwap exchange
 
@@ -12,11 +12,9 @@ Trading on the BubbleSwap exchange
 
 2\. Unlock your Ethereum-compatible wallet by clicking Unlock Wallet (you can also Connect in the top right-hand corner). If you haven't yet connected your wallet to BubbleSwap, you can view the guide to [here](../../get-started-eth/connect-your-wallet-to-bubbleswap.md).
 
-<figure><img src="../../.gitbook/assets/Connect-wallet.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截屏2024-07-28 下午1.09.48.png" alt=""><figcaption></figcaption></figure>
 
-3.Choose the token you want to trade from the dropdown menu in the "Form" section, the default setting is ETH.
-
-<figure><img src="../../.gitbook/assets/menu.jpg" alt=""><figcaption></figcaption></figure>
+3.Choose the token you want to trade from the dropdown menu in the "Form" section, the default setting is BTC.
 
 Whichever token you choose, you will need to make sure you have some to trade with, your balanse is shown above the token dropdown menu.
 
@@ -30,4 +28,4 @@ Your "From" currency amount will be estimated automatically. You can also type y
 
 When you are ready, click the Confirm Swap button. Your wallet will ask you to confirm the action.
 
-7\. Done! You can click View on EtherScan to see your transaction details on the explorer.
+7\. Done! You can click View on [BitlayerScan](https://www.btrscan.com/) to see your transaction details on the explorer.
