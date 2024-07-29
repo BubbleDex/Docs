@@ -10,7 +10,6 @@ Specify token pair:
 
 * BTC/USDT
 * USDC/USDT
-* CBD/USDT
 * More trading pairs will gradually open
 
 1. **Swap on** [**Bubbleswap**](https://app.bubbleswap.co/swap)
@@ -31,4 +30,4 @@ Specify token pair:
 | 🥈800-1999 USDT         | Equally divided **50,000 $BUB** |
 | 🥇More than 2000 USDT   | Equally divided **50,000 $BUB** |
 
-[How to swap & add liquidity on bubbleswap](https://docs.bubbleswap.co/features/trade)?
+[How to swap & add liquidity on bubbleswap](https://mirror.xyz/0x3aCf4E3aDA9a149f75A013a76f630727851d29F2/am7iXrw0mDFUkIHufCvhwSNh8q5H837a815Ome\_TZko)?
