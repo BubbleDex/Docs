@@ -4,7 +4,7 @@ We'll be airdropping to early backers!
 
 Start Time: July 27 2024
 
-Snapshot Time:&#x20;
+Snapshot Time: Aug 15 2024
 
 Specify token pair:
 
