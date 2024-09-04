@@ -33,6 +33,7 @@
 
 ## 🪙 Tokenomics
 
+* [IDO](tokenomics/ido.md)
 * [$BUB](tokenomics/usdbubble.md)
 * [Airdrop Campaion](tokenomics/airdrop-campaion.md)
 
