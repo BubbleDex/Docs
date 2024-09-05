@@ -36,7 +36,7 @@ The IDO will be separated into **1** rounds and conducted over **10** days, offe
 * **Valuation**: $2 million FDV, assuming BTC at $60000
 * **Price per Token**: 0.00000333 BTC (0.2USD)
 * **HardCap: 2.66 BTC**
-* **Vesting Schedule**: 50% at TGE, remaining vests over 1 month
+* **Vesting Schedule**: 100% at TGE
 * **Eligibility**: Open to everyone
 
 ## **Use of Funds** <a href="#use-of-funds" id="use-of-funds"></a>
