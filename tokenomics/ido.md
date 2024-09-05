@@ -35,16 +35,9 @@ The IDO will be separated into **1** rounds and conducted over **10** days, offe
 * **IDO Allocation**: 800,000 $BUB (8% of total supply)
 * **Valuation**: $2 million FDV, assuming BTC at $60000
 * **Price per Token**: 0.00000333 BTC (0.2USD)
+* **HardCap: 2.66 BTC**
 * **Vesting Schedule**: 50% at TGE, remaining vests over 1 month
 * **Eligibility**: Open to everyone
-* **Model**: Overflow
-* **Refunds**: Any BTC contribution that exceeds the cap will be refunded to the contributor.
-
-{% hint style="info" %}
-In the public round, participants can contribute BTC to purchase $BUB tokens
-
-If contributions exceed the maximum cap, the overflow model will be applied
-{% endhint %}
 
 ## **Use of Funds** <a href="#use-of-funds" id="use-of-funds"></a>
 
